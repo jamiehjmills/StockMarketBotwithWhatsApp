@@ -1,4 +1,4 @@
-# StockMarketBotwithWhatsApp
+# StockMarketBot with WhatsApp
 
 This project is done through [*'Whatsapp stock market bot with Python, Twilio & MarketStack'*](https://www.udemy.com/course/whatsapp-stock-market-bot-with-python-twilio-marketstack/) available at *Udemy*.
 
@@ -12,3 +12,7 @@ This project is done through [*'Whatsapp stock market bot with Python, Twilio & 
    APIs: 
   - Twilio
   - MarketStack
+
+**Languages:**
+
+- Python
